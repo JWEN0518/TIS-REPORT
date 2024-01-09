@@ -15,44 +15,43 @@ I am Yong Jing Wen. A Year 1 Software Engineering student in University Technolo
 
 ### 🎓 Education
 
-- **🎓 Undergraduate** 
+- **🎓 Undergraduate**  
   *Brachelor of Computer Science(Sofware enginnering), University technology Malaysia*
 
-- **🎓 Pre-u**
-   *Kolej Matrikulasi Melaka *
+- **🎓 Pre-u**  
+  *Kolej Matrikulasi Melaka*  
 
-### 🏢 Work Experience
+### 🏢 Position
 
 - **🏢 Current Position**  
-  *Company Name, Location (Start Date - Present)*  
-  Description of your responsibilities and achievements.
+  *Deputy leader of Marketing team of 25th Pesta Tanglung UTM*  
+   
 
 - **🏢 Previous Position**  
-  *Previous Company Name, Location (Start Date - End Date)*  
-  Description of your responsibilities and achievements.
+  *Vice President Chineese Society SMK Ghafar Baba 2020*
+  *President Red Crescent Society SMK GHAFAR BABA 2021*  
+
 
 ### 🛠️ Skills
 
 - 💻 Microsoft office
 - 🚀 C++
-- ...
 
 ---
 
-## c. Recommended: Courses, Certificates
 
 ### 📘 Courses
 
-- **📘 Course Name 1**  
+- **📘 Course **  
   *Platform, Completion Year*
 
-- **📘 Course Name 2**  
+- **📘 Course **  
   *Platform, Completion Year*
 
 ### 🏆 Certifications
 
-- **🏆 Certification Name 1**  
-  *Issuing Organization, Year of Certification*
+- **🏆 Certification KAKOM 2023**  
+  *Silver in Basketball competition at Matriculasion Melaka*
 
 - **🏆 Certification Name 2**  
   *Issuing Organization, Year of Certification*
