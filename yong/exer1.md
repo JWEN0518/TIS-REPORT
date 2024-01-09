@@ -2,12 +2,13 @@
 
 ## a. Profile Picture, Headline, Summary
 
-![Profile Picture](link_to_picture)
+![photo_2023-09-18_09-14-20](https://github.com/JWEN0518/TIS-REPORT/assets/152403691/02e221c9-8800-4ef3-8c38-b69a5da46aca)
 
-### 👤 Headline
+
+### 👩‍💼 Headline
 Your Professional Headline
 
-### 📝 Summary
+### 📄 Summary
 A brief summary of your professional background, skills, and career aspirations.
 
 ---
@@ -19,17 +20,17 @@ A brief summary of your professional background, skills, and career aspirations.
 - **🎓 Degree Name**  
   *University Name, Graduation Year*
 
-### 💼 Work Experience
+### 🏢 Work Experience
 
-- **💼 Current Position**  
+- **🏢 Current Position**  
   *Company Name, Location (Start Date - Present)*  
   Description of your responsibilities and achievements.
 
-- **💼 Previous Position**  
+- **🏢 Previous Position**  
   *Previous Company Name, Location (Start Date - End Date)*  
   Description of your responsibilities and achievements.
 
-### ⚙️ Skills
+### 🛠️ Skills
 
 - 💻 Skill 1
 - 🚀 Skill 2
@@ -60,12 +61,12 @@ A brief summary of your professional background, skills, and career aspirations.
 
 ## d. Additional: Honors and Awards, Projects
 
-### 🏅 Honors and Awards
+### 🎖️ Honors and Awards
 
-- **🏅 Award Name 1**  
+- **🎖️ Award Name 1**  
   *Year, Issuing Organization*
 
-- **🏅 Award Name 2**  
+- **🎖️ Award Name 2**  
   *Year, Issuing Organization*
 
 ### 🚀 Projects
@@ -74,10 +75,5 @@ A brief summary of your professional background, skills, and career aspirations.
   *Description of your role and contributions, Year*
 
 - **🚀 Project Name 2**  
-  *Description of your role and contributions, Year*
-- **Project Name 1**  
-  *Description of your role and contributions, Year*
-
-- **Project Name 2**  
   *Description of your role and contributions, Year*
 
