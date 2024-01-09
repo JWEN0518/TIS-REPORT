@@ -1,24 +1,25 @@
-# 1. Profile Sections
-
-## a. Profile Picture, Headline, Summary
-
-![photo_2023-09-18_09-14-20](https://github.com/JWEN0518/TIS-REPORT/assets/152403691/02e221c9-8800-4ef3-8c38-b69a5da46aca)
+# Profile Sections
 
 
-### 👩‍💼 Headline
-Your Professional Headline
+<img src="https://github.com/JWEN0518/TIS-REPORT/assets/152403691/02e221c9-8800-4ef3-8c38-b69a5da46aca" alt="Profile Picture" width="150" align="left">
+
+##
+#
 
 ### 📄 Summary
-A brief summary of your professional background, skills, and career aspirations.
+I am Yong Jing Wen. A Year 1 Software Engineering student in University Technology Malaysia.
 
----
 
-## b. Core: Education, Position, Skills
+##
+##
 
 ### 🎓 Education
 
-- **🎓 Degree Name**  
-  *University Name, Graduation Year*
+- **🎓 Undergraduate** 
+  *Brachelor of Computer Science(Sofware enginnering), University technology Malaysia*
+
+- **🎓 Pre-u**
+   *Kolej Matrikulasi Melaka *
 
 ### 🏢 Work Experience
 
@@ -32,9 +33,8 @@ A brief summary of your professional background, skills, and career aspirations.
 
 ### 🛠️ Skills
 
-- 💻 Skill 1
-- 🚀 Skill 2
-- 🛠️ Skill 3
+- 💻 Microsoft office
+- 🚀 C++
 - ...
 
 ---
@@ -76,4 +76,3 @@ A brief summary of your professional background, skills, and career aspirations.
 
 - **🚀 Project Name 2**  
   *Description of your role and contributions, Year*
-
